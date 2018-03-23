@@ -1,7 +1,6 @@
 package com.feng.ch04.args;
 
 import java.util.Map;
-
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class App {
@@ -24,3 +23,17 @@ public class App {
 		context.close();
 	}
 }
+
+//Playing track 0: With a Little Help from My Friends
+//Playing track 0: With a Little Help from My Friends
+//Playing track 1: Lucy in the Sky with the Diamonds
+//Playing track 2: Fixing a Hole
+//Playing track 1: Lucy in the Sky with the Diamonds
+//Playing track 2: Fixing a Hole
+//Playing track 0: With a Little Help from My Friends
+//Playing track 2: Fixing a Hole
+//Playing track 0: With a Little Help from My Friends
+//Playing track 2: Fixing a Hole
+//0:4
+//1:2
+//2:4

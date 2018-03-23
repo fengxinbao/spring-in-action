@@ -15,3 +15,9 @@ public class App {
 		context.close();
 	}
 }
+
+//Silencing cell phones.
+//Taking seats.
+//Play is begining.
+//CALP CLAP CLAP!!!
+//Performing encore.
